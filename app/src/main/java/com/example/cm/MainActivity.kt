@@ -11,6 +11,5 @@ class MainActivity : AppCompatActivity() {
     }
 
  fun tentativa(){
- // design
  }
 }
